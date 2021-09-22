@@ -19,8 +19,7 @@ setuptools.setup(
         'Framework :: Django :: 3.1',
         'License :: OSI Approved :: MIT License',
     ],
-    package_dir={"": "yamlfield"},
-    packages=setuptools.find_packages(where="yamlfield"),
+    packages=setuptools.find_packages(),
     python_requires=">=3.6",
     install_requires=(
         'ruamel.yaml>=0.17'

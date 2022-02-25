@@ -1,4 +1,6 @@
+LICENSE
 README.md
+pyproject.toml
 setup.py
 django_ruamel_yamlfield.egg-info/PKG-INFO
 django_ruamel_yamlfield.egg-info/SOURCES.txt

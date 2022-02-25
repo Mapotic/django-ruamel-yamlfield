@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="django-yamlfield",
-    version="0.1.1",
+    name="django-ruamel-yamlfield",
+    version="0.1.2",
     description='A Django database field for storing YAML data with Ruamel yaml implementation',
     author='Martin Kubát',
     author_email='martin.kubat@mapotic.com',
